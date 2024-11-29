@@ -3,7 +3,7 @@
 FR
 Ceci est un repo créer entre collègues de formation afin de pouvoir montrer à toute personne intéressée ce que nous sommes capables de faire pendant et après la formation.
 Les fonctions python auxquelles vous allez accéder dans ce repo ont été crées soit dans le cadre de la formation Data Analyst prodiguée par le Campus Numérique in the Alps in Grenoble, soit dans le cadre de la période de stage entreprise.
-Ce repo est écrit en collaboration avec Lisiane Von Ahn, Florian Carle and Déborah Leclercq.
+Ce repo est écrit en collaboration avec Lisiane Von Ahn et Déborah Leclercq.
 
 Vous retrouverez dans ce repo:
 1 - les librairies python requises pour utiliser ces fonctions
@@ -19,7 +19,7 @@ ENGLISH VERSION
 
 This repo has been created between Data Analysts trainees to show our knowledge and abilities with python to anyone who would be interested or even would need to use those functions.
 The python functions you will see in this repo were created during our training as Data Analyst at Campus numérique in the Alps in Grenoble and during our internship.
-This is a collaboration between Lisiane Von Ahn, Florian Carle and Déborah Leclercq.
+This is a collaboration between Lisiane Von Ahn and Déborah Leclercq.
 
 
 This repo will show you what we are capable of in terms of creating python functions.
